@@ -1,4 +1,4 @@
-app = "hog-payroll"
+app = "hopeofglory"
 primary_region = "jnb"
 
 [build]
